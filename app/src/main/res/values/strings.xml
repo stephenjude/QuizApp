@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Quiz [ Politics &amp; Africa ]</string>
+    <string name="question_1">1. What was the racial segregation policy practiced by South Africa\'s National Party until 1994?</string>
+    <string name="option_a_of_ques_1_correct">Apartheid</string>
+    <string name="option_b_of_ques_1">Aparty</string>
+
+    <string name="question_2">2. Which party was led by Adolf Hitler from 1921 to 1945?</string>
+    <string name="option_a_of_ques_2_correct">Nazi Party</string>
+    <string name="option_b_of_ques_2">Democratic Party</string>
+
+
+    <string name="question_3">4. Which US president introduced the New Deal in 1933 to counter the depression?</string>
+    <string name="option_a_of_ques_3_correct">Donald Trump</string>
+    <string name="option_b_of_ques_3">Franklin Roosevelt</string>
+
+
+    <string name="question_4">6. In what year did Donald Trump seek the Reform Party\'s presidential nomination?</string>
+    <string name="option_a_of_ques_4">In 1998</string>
+    <string name="option_b_of_ques_4_correct">In 2000</string>
+
+
+    <string name="question_5">5. Which of the following are the newest countries in the world</string>
+    <string name="option_a_of_ques_5">East Timor</string>
+    <string name="option_b_of_ques_5">Kosovo</string>
+    <string name="option_c_of_ques_5__incorrect">USA</string>
+    <string name="option_d_of_ques_5">South Sudan</string>
+
+    <string name="question_6">7. Where is Nollywood, the second biggest movie industry in the world in terms of number of films made?</string>
+    <string name="option_of_ques_6">Nigeria </string>
+
+    <string name="question_7">8. How many different languages are spoken across Africa? </string>
+    <string name="option_a_of_ques_7">About 300</string>
+    <string name="option_b_of_ques_7_correct">About 3000</string>
+
+    <string name="question_8">9. Who is Africa\'s longest serving leader?</string>
+    <string name="option_a_of_ques_8_correct">Jomo Kenyatta of Kenya</string>
+    <string name="option_b_of_ques_8">Robert Mugabe of Zimbabwe </string>
+
+    <string name="question_9">10. Which country is Africa\'s most popular tourist destination? </string>
+    <string name="option_of_ques_9">Egypt</string>
+
+    <string name="question_0">3. Africa is a continent (a very large mass of land) which is made up of many different countries. How many countries make up the continent of Africa? </string>
+    <string name="option_of_ques_0">54</string>
+
+
+</resources>
